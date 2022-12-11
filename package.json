@@ -1,0 +1,21 @@
+{
+  "name": "file_manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js -- --username=Rustem"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pyctem/file_manager.git"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pyctem/file_manager/issues"
+  },
+  "homepage": "https://github.com/Pyctem/file_manager#readme"
+}
